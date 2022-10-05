@@ -1,6 +1,6 @@
 
 <!--
-**1806exe/1806exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ndeanka/ndeanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 #### &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/1806exe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1806exe&show_icons=true&line_height=33&count_private=true&theme=dark" alt="1806exe's GitHub Stats" />
+<a href="https://github.com/ndeanka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&line_height=33&count_private=true&theme=dark" alt="ndeanka's GitHub Stats" />
 </a>
 
-<a href="https://innomgubhe.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1806exe&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+<a href="https://github.com/ndeanka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
