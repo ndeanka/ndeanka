@@ -1,4 +1,3 @@
-
 <!--
 **ndeanka/ndeanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/ndeanka">
@@ -23,16 +23,15 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
+**Languages and Tools:**
 
-**Languages and Tools:**  
+<!-- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code> -->
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ndeanka/ndeanka/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ndeanka/ndeanka/master/assets/javascript.png"></code>
-
 
 ![](https://komarev.com/ghpvc/?username=ndeanka)
