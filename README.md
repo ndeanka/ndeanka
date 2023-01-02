@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on https://github.com/ndeanka/
 - 💬 Ask me about Python, Django, Flutter
-- 📫 How to reach me: abrashema9@gmail.com
+- 📫 How to reach me: williammlula4@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
