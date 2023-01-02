@@ -19,7 +19,7 @@
 
 
 <a href="https://github.com/ndeanka/">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=transparent&hide_border=false" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=transparent&hide_border=false" />
 </a>
 
 <h2>🏆 Github Profile Trophy</h2>
