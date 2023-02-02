@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on T -->
 <!-- - 🌱 I’m currently learning Typescript -->
 - 👯 I’m looking to collaborate on https://github.com/ndeanka/
-- 💬 Ask me about Python, Django, PHP
+- 💬 Ask me about Python, Django, PHP, Yii
 - 📫 How to reach me: williammlula4@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
@@ -28,7 +28,7 @@
 🌋 **Languages and Tools:**
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,django,php,git,github,docker,linux,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,django,php,yii,git,github,docker,linux,vscode,vim" />
   </a>
 <br />
 
