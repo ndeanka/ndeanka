@@ -28,7 +28,7 @@
 🌋 **Languages and Tools:**
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,django,php,yii,git,github,docker,linux,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,django,php,git,github,docker,linux,vscode,vim" />
   </a>
 <br />
 
