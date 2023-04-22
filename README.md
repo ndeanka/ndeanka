@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on T -->
-<!-- - 🌱 I’m currently learning Typescript -->
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on https://github.com/ndeanka/
 - 💬 Ask me about Python, Django, PHP, Yii
 - 📫 How to reach me: williammlula4@gmail.com
@@ -28,7 +28,7 @@
 🌋 **Languages and Tools:**
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,django,php,git,github,linux,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,python,django,php,git,github,linux,vscode,vim" />
   </a>
 <br />
 
