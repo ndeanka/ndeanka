@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm William Lula
+# Hi there! 👋 I'm William Mlula
 
 Welcome to my GitHub playground! I'm a dedicated software developer with a passion for mastering Angular and exploring the vast world of web development.
 
