@@ -1,38 +1,41 @@
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>
+# Hi there! 👋 I'm William Lula
 
-### Hi there
+Welcome to my GitHub playground! I'm a dedicated software developer with a passion for mastering Angular and exploring the vast world of web development.
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## About Me
 
-<!-- **ndeanka/ndeanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+- 🌱 Currently honing my skills in: Angular
+- 👯 Open to collaboration: [GitHub/nedanka](https://github.com/nedanka/)
+- 💬 Let's chat about: Python, JavaScript
+- 📫 You can reach me at: [williammlula4@gmail.com](mailto:williammlula4@gmail.com)
 
-<!-- Here are some ideas to get you started: -->
-<!-- - 🔭 I’m currently working on T -->
+## GitHub Stats
 
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on https://github.com/ndeanka/
-- 💬 Ask me about Python, Javascript.
-- 📫 How to reach me: williammlula4@gmail.com
-  <!-- - 🤔 I’m looking for help with ... -->
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡ Fun fact: ... -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nedanka&show_icons=true&count_private=true&theme=vue&hide_border=true&custom_title=GitHub%20Stats)](http://www.github.com/nedanka)
 
-<a href="http://www.github.com/ndeanka"><img src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&hide=&count_private=true&theme=transparent&hide_border=false&show_icons=true" alt="ndeanka's GitHub stats" /></a>
+## Top Languages
 
-<a href="https://github.com/ndeanka/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=transparent&hide_border=false" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nedanka&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=vue&hide_border=true&custom_title=Top%20Languages)](https://github.com/nedanka/)
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ndeanka&column=9&theme=onedark&no-frame=false"/>
+## GitHub Profile Trophy
 
-🌋 **Languages and Tools:**
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nedanka&column=9&theme=dracula&no-frame=true)
 
-<a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,angular,nodejs,express,nestjs,mongodb,python,django,git,github,linux" />
-  </a>
-<br />
+## Languages and Tools
 
-![](https://komarev.com/ghpvc/?username=ndeanka)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,angular,nodejs,express,nestjs,mongodb,python,django,git,github,linux)
+
+### Additional Skills
+
+- UI/UX Design
+- Responsive Web Development
+- RESTful API Design
+- Databases: MySQL, PostgreSQL
+- Version Control: Git
+- DevOps: Docker
+
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=nedanka)
 
 <!-- <a href="https://www.buymeacoffee.com/abrashema9O"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
