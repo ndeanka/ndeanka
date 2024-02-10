@@ -23,7 +23,7 @@ Welcome to my GitHub playground! I'm a dedicated software developer with a passi
 
 ## Languages and Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,typescript,angular,nodejs,express,nestjs,mongodb,python,django,git,github,linux)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,typescript,angular,nodejs,express,mongodb,python,django,git,github,linux)
 
 ### Additional Skills
 
