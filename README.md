@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm William Mlula
 
-Welcome to my GitHub profile! I'm a passionate software developer from Tanzania, with expertise in web development and a keen interest in learning new technologies.
+Welcome to my GitHub profile! I'm a passionate software developer from Tanzania, specializing in web development with a focus on Angular. I'm always excited to learn and explore new technologies.
 
 ## About Me
 
-- 💻 Currently focused on: Angular development
-- 🤝 Open to collaboration on projects
-- 💬 Let's discuss: Python, JavaScript, and web development
-- 📧 Contact me: [williammlula4@gmail.com](mailto:williammlula4@gmail.com)
+I'm currently dedicated to Angular development and open to collaboration on projects. Let's connect and discuss topics like Python, JavaScript, and web development!
+
+📧 Contact me: [williammlula4@gmail.com](mailto:williammlula4@gmail.com)
 
 ## Skills & Tools
 
@@ -41,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Tanzania,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## GitHub Stats
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=radical)
 
