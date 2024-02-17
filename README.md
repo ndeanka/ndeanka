@@ -1,76 +1,52 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ndeanka.ndeanka" />
+# Hi there! 👋 I'm William Mlula
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+William+Mlula!;" />
-</h1>
+Welcome to my GitHub profile! I'm a passionate software developer from Tanzania, with expertise in web development and a keen interest in learning new technologies.
 
-<h3 align="center">A passionate software developer from Tanzania</h3>
+## About Me
 
-<br/>
+- 💻 Currently focused on: Angular development
+- 🤝 Open to collaboration on projects
+- 💬 Let's discuss: Python, JavaScript, and web development
+- 📧 Contact me: [williammlula4@gmail.com](mailto:williammlula4@gmail.com)
 
-<div align="center">
- 
- <!-- 🔭 I’m currently working on **a marketplace** -->
- 
- 🌱 I’m currently learning **Angular and Tailwind**
+## Skills & Tools
 
-💬 Ask me about **Node.js, Angular, Python... or anything [here](https://github.com/ndeanka/ndeanka/issues)**
+### Languages
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:williammlula4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <!-- <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> -->
-  <a href="https://ndeanka.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> 
-</div>
+### Frameworks & Libraries
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,typescript,angular,nodejs,express,mongodb" />
-    <img src="https://skillicons.dev/icons?i=python,django,git,github,linux" /><br>
-</div>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-<br/>
-<hr/>
+### Databases
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ndeanka/ndeanka/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<hr/>
+### Tools
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-ndeanka.vercel.app/?user=ndeanka&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-ndeanka.vercel.app/api?username=ndeanka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ndeanka.vercel.app/api/top-langs/?username=ndeanka&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br/><br/>
+## GitHub Stats
 
-<hr/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=radical)
 
-<br/>
+## Top Languages
 
-<!-- <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div> -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=radical)
 
-<br/>
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ndeanka)
