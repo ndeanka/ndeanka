@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm William Mlula
 
-Welcome to my GitHub profile! I'm a passionate software developer from Tanzania, specializing in web development with a focus on Angular. I'm always excited to learn and explore new technologies.
+Welcome to my GitHub profile! I'm a passionate full-stack software developer from Tanzania with expertise in web development, focusing on Angular, React, and Node.js. I have a strong foundation in backend technologies and database management, and I'm always excited to explore new tools and frameworks. I believe in writing clean, efficient, and maintainable code, and I strive to improve my skills in Java, Java continuouslyScript, Python, and beyond.
 
 ## About Me
 
-I'm currently dedicated to Angular development and open to collaboration on projects. Let's connect and discuss topics like Python, JavaScript, and web development!
+I'm currently dedicated to Angular development, but I also enjoy working with React, Java, and Node.js on both front-end and back-end projects. I'm passionate about creating innovative solutions and optimizing systems. I’m open to collaboration and discussions around topics like Python, JavaScript, web development, and software architecture. Let’s connect and build something great together!
 
 📧 Contact me: [williammlula4@gmail.com](mailto:williammlula4@gmail.com)
 
