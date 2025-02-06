@@ -46,15 +46,13 @@
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ndeanka&theme=radical"/>
-</div>
+## GitHub Activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=radical&no-bg=true&no-frame=true&column=7" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=radical)
 
 ---
 
