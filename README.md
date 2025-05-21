@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Angular & React Expert | Clean Code Evangelist</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ndeanka" target="_blank">
+  <a href="https://www.linkedin.com/in/william-mlula-341a98147/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/ndeanka" target="_blank">
