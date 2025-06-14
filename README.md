@@ -90,7 +90,7 @@ const developer = {
 | Frontend | Backend | Java Ecosystem | Database | DevOps |
 |----------|---------|----------------|----------|--------|
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Angular, React | Node.js, NestJS | Java, Spring Boot | PostgreSQL, MongoDB | Docker, AWS |
+| Angular, React | Node.js, NestJS | Java, Spring Boot | PostgreSQL, MongoDB | Docker, Git |
 
 **Core Strengths:**
 - 🔧 **Microservices Architecture** - Node.js & Java Spring Boot expertise
