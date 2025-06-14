@@ -1,68 +1,66 @@
 <div align="center">
   
-# 👋 Hey there, I'm William Mlula
+# William Mlula
+## Senior Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Angular+%26+React+Expert;Clean+Code+Evangelist;Building+Scalable+Solutions" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Angular+%26+React+Specialist;Scalable+Architecture+Expert;Clean+Code+Advocate" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ndeanka)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=ndeanka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=ndeanka&label=Profile%20Views&color=2E86AB&style=flat" alt="Profile views">
 
 </div>
 
 ---
 
 ## 📋 Table of Contents
-- [🚀 About Me](#-about-me)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [👨‍💻 Professional Summary](#-professional-summary)
+- [🛠️ Technical Expertise](#️-technical-expertise)
 - [📊 GitHub Analytics](#-github-analytics)
-- [🏆 Featured Projects](#-featured-projects)
-- [🎯 Current Focus](#-current-focus)
-- [🌟 Skills & Expertise](#-skills--expertise)
-- [📈 Professional Journey](#-professional-journey)
-- [🤝 Let's Connect](#-lets-connect)
+- [🏆 Portfolio Projects](#-portfolio-projects)
+- [🎯 Current Initiatives](#-current-initiatives)
+- [💼 Professional Experience](#-professional-experience)
+- [🎓 Certifications & Learning](#-certifications--learning)
+- [📬 Professional Contact](#-professional-contact)
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="left">
 
 ```javascript
-const william = {
-    role: "Full-Stack Developer",
-    location: "Tanzania 🇹🇿",
-    languages: ["JavaScript", "TypeScript", "Java", "Python"],
-    expertise: ["Angular", "React", "Node.js", "NestJS"],
-    architecture: ["Microservices", "MVC", "Clean Architecture"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL"],
-    currentFocus: "Building scalable web applications",
-    lifePhilosophy: "Clean code is not written by following rules. 
-                     Clean code is written by clean coders."
+const williamMlula = {
+    role: "Senior Full-Stack Developer",
+    location: "Tanzania",
+    experience: "5+ years",
+    specialization: ["Angular", "React", "Node.js", "NestJS"],
+    architecture: ["Microservices", "Clean Architecture", "Domain-Driven Design"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+    focus: "Enterprise-grade scalable applications",
+    methodology: "Agile/Scrum, Test-Driven Development"
 };
 ```
 
-**💡 What drives me:**
-- 🔧 Crafting efficient, maintainable applications
-- 🚀 Building scalable backend systems
-- 📚 Continuous learning and skill enhancement
-- 🤝 Mentoring and knowledge sharing
-- 🌍 Contributing to open-source projects
+</div>
+
+**Professional Highlights:**
+- 🏢 **Enterprise Application Development** - 5+ years building scalable web applications
+- 🏗️ **Full-Stack Architecture** - From frontend interfaces to backend microservices
+- 🔧 **Clean Code Implementation** - Advocate for maintainable, testable code practices
+- 📚 **Technical Leadership** - Mentoring junior developers and driving best practices
+- 🚀 **Performance Optimization** - Expertise in application scaling and optimization
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Technologies
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -70,29 +68,26 @@ const william = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### ⚡ Backend Development
+### Backend & API Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases & Storage
+### Database Systems
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 DevOps & Tools
+### DevOps & Development Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -101,234 +96,234 @@ const william = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndeanka&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndeanka&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndeanka&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Portfolio Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🏦 Kikoba App** | Scalable savings & loan platform with microservices architecture | NestJS, Angular 19, PostgreSQL | [Demo](#) \| [Code](#) |
-| **💊 PharmaTrack** | Comprehensive pharmacy management system with real-time inventory | React, NestJS, TypeORM, Tailwind | [Demo](#) \| [Code](#) |
-| **👥 TeamPulse** | HR dashboard with role-based access and performance analytics | Node.js, Express, React, MySQL | [Demo](#) \| [Code](#) |
+| Project | Description | Technology Stack | Status |
+|---------|-------------|------------------|--------|
+| **Kikoba Financial Platform** | Enterprise savings & loan management system | NestJS, Angular 19, PostgreSQL, Docker | Production |
+| **PharmaTrack Management System** | Comprehensive pharmacy inventory solution | React, NestJS, TypeORM, Tailwind CSS | Production |
+| **TeamPulse HR Dashboard** | Employee management and analytics platform | Node.js, Express, React, MySQL | Production |
 
 </div>
 
-### 🔥 Project Highlights
+### Technical Project Details
 
 <details>
-<summary><b>Kikoba App - Financial Platform</b></summary>
+<summary><b>Kikoba Financial Platform</b></summary>
 
-```yaml
-Overview: Comprehensive savings and loan management platform
-Key Features:
-  - JWT-based authentication system
-  - Real-time transaction tracking
-  - Microservices architecture
-  - RESTful API design
-  - Responsive Angular frontend
-Technologies: NestJS, Angular 19, PostgreSQL, Docker
-```
+**Project Overview:** Enterprise-grade financial management platform for savings and loan operations.
+
+**Technical Implementation:**
+- **Architecture:** Microservices with API Gateway pattern
+- **Authentication:** JWT-based secure authentication system
+- **Database:** PostgreSQL with optimized queries and indexing
+- **Frontend:** Angular 19 with reactive forms and state management
+- **Deployment:** Docker containerization with CI/CD pipeline
+
+**Key Features:**
+- Real-time transaction processing
+- Role-based access control
+- Audit logging and compliance
+- Responsive dashboard interface
+- RESTful API design
+
 </details>
 
 <details>
-<summary><b>PharmaTrack - Pharmacy Management</b></summary>
+<summary><b>PharmaTrack Management System</b></summary>
 
-```yaml
-Overview: Complete pharmacy inventory and prescription management
-Key Features:
-  - Real-time stock monitoring
-  - Prescription tracking system
-  - Automated alert notifications
-  - Multi-user role management
-  - Modern responsive UI
-Technologies: React, NestJS, TypeORM, Tailwind CSS
-```
+**Project Overview:** Complete pharmacy inventory and prescription management solution.
+
+**Technical Implementation:**
+- **Backend:** NestJS with TypeORM for database operations
+- **Frontend:** React with modern hooks and context API
+- **Database:** PostgreSQL with complex relational modeling
+- **UI/UX:** Tailwind CSS for responsive design
+- **Integration:** Third-party APIs for medication databases
+
+**Key Features:**
+- Inventory tracking with automated alerts
+- Prescription management system
+- Multi-location support
+- Reporting and analytics
+- Barcode scanning integration
+
 </details>
 
 <details>
-<summary><b>TeamPulse - HR Dashboard</b></summary>
+<summary><b>TeamPulse HR Dashboard</b></summary>
 
-```yaml
-Overview: Employee management and performance analytics platform
-Key Features:
-  - Role-based access control
-  - Performance metrics visualization
-  - Employee data management
-  - Report generation
-  - Dashboard analytics
-Technologies: Node.js, Express, React, MySQL
-```
+**Project Overview:** Comprehensive employee management and performance analytics platform.
+
+**Technical Implementation:**
+- **Backend:** Node.js with Express.js framework
+- **Frontend:** React with data visualization libraries
+- **Database:** MySQL with optimized schema design
+- **Authentication:** Session-based authentication
+- **APIs:** RESTful services with comprehensive documentation
+
+**Key Features:**
+- Employee lifecycle management
+- Performance tracking and analytics
+- Document management system
+- Reporting dashboard
+- Role-based access control
+
 </details>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Initiatives
 
 <div align="center">
+
+### Professional Development Roadmap
 
 ```mermaid
-graph LR
-    A[🔧 Spring Boot Mastery] --> B[☁️ Cloud Architecture]
-    B --> C[🚀 DevOps Optimization]
-    C --> D[📱 Mobile Development]
-    D --> E[🤖 AI Integration]
+graph TD
+    A[Advanced Spring Boot] --> B[Cloud Architecture]
+    B --> C[Kubernetes Orchestration]
+    C --> D[AI/ML Integration]
+    D --> E[Technical Leadership]
 ```
 
 </div>
 
-**🌱 Currently Learning:**
-- Advanced Spring Boot patterns
-- Cloud-native applications (AWS/Azure)
-- Kubernetes orchestration
-- AI/ML integration in web apps
+**Active Learning Path:**
+- **Spring Boot Mastery:** Advanced patterns and microservices architecture
+- **Cloud Technologies:** AWS/Azure cloud-native application development
+- **Container Orchestration:** Kubernetes for enterprise deployments
+- **Machine Learning:** AI integration in web applications
+- **Technical Leadership:** Team management and architectural decision-making
 
-**🔭 Working On:**
-- Open-source contribution to Angular ecosystem
-- Personal portfolio website redesign
-- Blog series on clean code practices
+**Current Projects:**
+- Contributing to open-source Angular ecosystem projects
+- Developing enterprise-grade component library
+- Technical blog writing on clean architecture principles
 
 ---
 
-## 🌟 Skills & Expertise
+## 💼 Professional Experience
 
 <div align="center">
 
-### 💪 Core Strengths
+### Career Progression
 
-| Skill Category | Proficiency | Key Technologies |
-|----------------|-------------|------------------|
-| **Frontend Development** | ⭐⭐⭐⭐⭐ | Angular, React, TypeScript |
-| **Backend Development** | ⭐⭐⭐⭐⭐ | Node.js, NestJS, Java |
-| **Database Design** | ⭐⭐⭐⭐ | PostgreSQL, MongoDB, MySQL |
-| **API Development** | ⭐⭐⭐⭐⭐ | REST, GraphQL, Microservices |
-| **DevOps & Deployment** | ⭐⭐⭐⭐ | Docker, Jenkins, Git |
-| **Code Quality** | ⭐⭐⭐⭐⭐ | Testing, Clean Architecture |
+| Skill Domain | Proficiency Level | Years of Experience |
+|--------------|-------------------|---------------------|
+| **Frontend Development** | Expert ⭐⭐⭐⭐⭐ | 5+ years |
+| **Backend Development** | Expert ⭐⭐⭐⭐⭐ | 5+ years |
+| **Database Design** | Advanced ⭐⭐⭐⭐ | 4+ years |
+| **API Development** | Expert ⭐⭐⭐⭐⭐ | 5+ years |
+| **DevOps & CI/CD** | Advanced ⭐⭐⭐⭐ | 3+ years |
+| **System Architecture** | Advanced ⭐⭐⭐⭐ | 3+ years |
 
 </div>
 
----
+### Professional Achievements
 
-## 📈 Professional Journey
-
-<div align="center">
-
-```mermaid
-timeline
-    title My Development Journey
-    2019 : Started with HTML/CSS
-         : First JavaScript project
-    2020 : Learned React
-         : Built first full-stack app
-    2021 : Mastered Angular
-         : Started with Node.js
-    2022 : NestJS expertise
-         : Microservices architecture
-    2023 : Java & Spring Boot
-         : DevOps practices
-    2024 : Advanced patterns
-         : Open source contributions
-```
-
-</div>
-
-### 🎖️ Achievements & Milestones
-
-- ✅ **100+** Projects completed successfully
-- ✅ **5+** Years of development experience
-- ✅ **10+** Production applications deployed
-- ✅ **Clean Code** advocate and practitioner
-- ✅ **Agile/Scrum** methodology expert
-- ✅ **Team Leadership** experience
+- ✅ **100+ Projects** delivered successfully across various industries
+- ✅ **Enterprise Applications** deployed to production environments
+- ✅ **Team Leadership** experience with junior developers
+- ✅ **Clean Code Practices** implementation across all projects
+- ✅ **Agile Methodologies** expertise in Scrum and Kanban
+- ✅ **Performance Optimization** for high-traffic applications
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Certifications & Learning
+
+**Continuous Professional Development:**
+- Advanced JavaScript and TypeScript patterns
+- Clean Architecture and Domain-Driven Design
+- Cloud-native application development
+- DevOps and CI/CD best practices
+- Agile and Scrum methodologies
+
+**Industry Knowledge:**
+- Enterprise software development lifecycle
+- Scalable system architecture design
+- Database optimization and performance tuning
+- Security best practices in web applications
+- Testing strategies and quality assurance
+
+---
+
+## 📬 Professional Contact
 
 <div align="center">
 
-### 💬 I'm Always Open To:
+### Let's Connect Professionally
 
-🤝 **Collaborating** on innovative projects  
-💡 **Discussing** new technologies and best practices  
-🌍 **Contributing** to open-source initiatives  
-☕ **Chatting** about clean code and architecture  
-🎯 **Mentoring** aspiring developers  
-
-### 📫 Reach Out:
+I'm available for freelance projects, technical consulting, and full-time opportunities.
 
 <table>
   <tr>
     <td align="center">
       <a href="mailto:williammlula4@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        <br>Drop me an email
+        <br><b>Professional Email</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/william-mlula-341a98147/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        <br>Let's connect professionally
+        <br><b>LinkedIn Profile</b>
       </a>
     </td>
     <td align="center">
       <a href="https://twitter.com/ndeanka">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-        <br>Follow my tech journey
+        <br><b>Professional Updates</b>
       </a>
     </td>
   </tr>
 </table>
 
----
+### Professional Services
 
-### 🎭 Fun Facts About Me
+**Available for:**
+- 🏢 **Enterprise Application Development**
+- 🔧 **Technical Consulting & Architecture Review**
+- 📚 **Code Review & Best Practices Implementation**
+- 🎯 **Team Leadership & Mentoring**
+- 🚀 **Performance Optimization & Scaling**
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-- 🎵 I code better with music (usually lo-fi beats)
-- ☕ Coffee is my debugging tool
-- 🌅 Early bird developer (5 AM coding sessions)
-- 📚 Always reading tech blogs and documentation
-- 🎮 Gaming enthusiast in my free time
-- 🌱 Indoor plant collector (they're like my code - need constant care!)
+**Preferred Engagement:**
+- Remote collaboration with flexible scheduling
+- Agile development methodologies
+- Long-term partnerships and ongoing projects
+- Technical challenges requiring innovative solutions
 
 ---
 
 <div align="center">
 
-## 💭 Developer Quote of the Day
+### Professional Recognition
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/ndeanka/ndeanka/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndeanka&theme=github-compact&hide_border=true&area=true" />
 
 ---
 
-**"The best error message is the one that never shows up."** 
-<br>*— Thomas Fuchs*
+**"Clean code always looks like it was written by someone who cares."**  
+*— Robert C. Martin*
 
 <br>
 
-*Thank you for visiting my profile! Don't forget to ⭐ star some repositories if you find them interesting!*
+*Available for professional opportunities and technical collaborations.*
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ndeanka/ndeanka&type=Date)](https://star-history.com/#ndeanka/ndeanka&Date)
+[![Professional Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
