@@ -1,142 +1,161 @@
 <div align="center">
-  
-# William Mlula
-## Senior Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Senior+Full-Stack+Developer;Angular+%26+React+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
+# William Mlula
+### Full-Stack Developer • Remote Ready
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Angular+%7C+React+Developer;Node.js+%7C+NestJS+Expert;Java+%7C+Spring+Boot;5%2B+Years+Experience;Available+Worldwide" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ndeanka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🚀 What I Do
 
-```javascript
-const williamMlula = {
-    role: "Senior Full-Stack Developer",
-    experience: "5+ years",
-    specialization: ["Angular", "React", "Node.js", "NestJS"],
-    architecture: ["Microservices", "Clean Architecture"],
-    focus: "Enterprise-grade scalable applications"
-};
+```typescript
+const developer = {
+  name: "William Mlula",
+  role: "Full-Stack Developer",
+  experience: "5+ years",
+  frontend: ["Angular", "React", "TypeScript"],
+  backend: ["Node.js", "NestJS", "Java", "Spring Boot"],
+  passion: "Building amazing web experiences"
+}
 ```
 
-**Core Expertise:**
-- 🏢 **Enterprise Application Development** - 5+ years building scalable web applications
-- 🏗️ **Full-Stack Architecture** - Frontend to backend microservices
-- 🔧 **Clean Code Implementation** - Maintainable, testable code practices
-- 🚀 **Performance Optimization** - Application scaling and optimization
+**I build:**
+- 🔥 **Modern Web Apps** - Fast, scalable, beautiful interfaces
+- ⚡ **APIs & Backends** - Robust Node.js & Java microservices  
+- 🎨 **UI/UX** - Clean, responsive, user-focused designs
+- 🚀 **Full-Stack Solutions** - End-to-end development
+- ☁️ **Enterprise Applications** - Scalable, production-ready systems
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndeanka&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 Key Projects
+## 💼 Featured Projects
 
-| Project | Description | Technology Stack |
-|---------|-------------|------------------|
-| **Kikoba Financial Platform** | Enterprise savings & loan management system | NestJS, Angular 19, PostgreSQL |
-| **PharmaTrack System** | Pharmacy inventory & prescription management | React, NestJS, TypeORM |
-| **TeamPulse Dashboard** | HR management and analytics platform | Node.js, React, MySQL |
+| Project | Tech Stack | Impact | Users |
+|---------|------------|---------|-------|
+| 🏦 **Kikoba Financial** | Angular + NestJS + PostgreSQL | Financial management platform | 50K+ |
+| 💊 **PharmaTrack** | React + Node.js + TypeORM | Pharmacy inventory system | 15K+ |
+| 👥 **TeamPulse** | React + Express + MySQL | HR analytics dashboard | 5K+ |
 
 ---
 
-## 💼 Professional Experience
+## 🌟 Skills & Expertise
 
 <div align="center">
 
-| Domain | Level | Experience |
-|--------|--------|------------|
-| **Frontend Development** | Expert ⭐⭐⭐⭐⭐ | 5+ years |
-| **Backend Development** | Expert ⭐⭐⭐⭐⭐ | 5+ years |
-| **API Development** | Expert ⭐⭐⭐⭐⭐ | 5+ years |
-| **Database Design** | Advanced ⭐⭐⭐⭐ | 4+ years |
-| **DevOps & CI/CD** | Advanced ⭐⭐⭐⭐ | 3+ years |
+| Frontend | Backend | Java Ecosystem | Database | DevOps |
+|----------|---------|----------------|----------|--------|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| Angular, React | Node.js, NestJS | Java, Spring Boot | PostgreSQL, MongoDB | Docker, AWS |
+
+**Core Strengths:**
+- 🔧 **Microservices Architecture** - Node.js & Java Spring Boot expertise
+- 🎯 **API Development** - RESTful & GraphQL service design
+- 📱 **Responsive Design** - Mobile-first, cross-platform solutions
+- 🚀 **Performance Optimization** - High-speed, efficient applications
+- 🔐 **Security Best Practices** - Secure authentication & authorization
 
 </div>
-
-**Achievements:**
-- ✅ 100+ projects delivered successfully
-- ✅ Enterprise applications in production
-- ✅ Team leadership experience
-- ✅ Agile/Scrum methodology expert
 
 ---
 
 ## 🎯 Currently Learning
-- Advanced Spring Boot & microservices
-- Cloud-native applications (AWS/Azure)
-- AI/ML integration in web applications
+
+- ☁️ **Advanced Spring Boot** - Microservices patterns
+- 🔄 **DevOps** - Kubernetes & CI/CD pipelines
+- 🤖 **AI Integration** - Machine learning APIs
+- 📊 **Data Analytics** - Business intelligence tools
 
 ---
 
-## 📬 Professional Contact
+## 📞 Let's Connect
 
 <div align="center">
 
-**Available for freelance projects, technical consulting, and full-time opportunities**
+**Available for freelance, remote work, and exciting projects! 🚀**
 
 <table>
   <tr>
     <td align="center">
       <a href="mailto:williammlula4@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        <br><b>Professional Email</b>
+        <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <br><b>williammlula4@gmail.com</b>
+        <br><small>Quick response guaranteed</small>
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/william-mlula-341a98147/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        <br><b>LinkedIn Profile</b>
+        <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <br><b>Professional Profile</b>
+        <br><small>Connect & collaborate</small>
       </a>
     </td>
     <td align="center">
       <a href="https://twitter.com/ndeanka">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-        <br><b>Professional Updates</b>
+        <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+        <br><b>Tech Updates</b>
+        <br><small>Follow my journey</small>
       </a>
     </td>
   </tr>
 </table>
 
-**Services:**
-- 🏢 Enterprise Application Development
-- 🔧 Technical Consulting & Architecture Review
-- 📚 Code Review & Best Practices
-- 🎯 Team Leadership & Mentoring
+### 💡 What I Can Help With
+
+- 🏢 **Enterprise Applications** - Scalable, robust web solutions
+- 🔧 **API Development** - Node.js & Java backend services
+- 🎨 **Frontend Development** - Modern Angular & React applications
+- 👥 **Technical Consulting** - Architecture design & code reviews
+- 🚀 **Performance Optimization** - Lightning-fast, efficient systems
 
 ---
 
-*"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
+*"Code is poetry written in logic"* 
+
+**🌍 Remote • 🕐 UTC+3 • 💬 English • ☕ Coffee-powered**
 
 </div>
