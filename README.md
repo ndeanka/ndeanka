@@ -1,6 +1,6 @@
 <div align="center">
 
-# William Mlula
+# Willy Mlula
 ### Full-Stack Developer • Remote Ready
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Angular+%7C+React+Developer;Node.js+%7C+NestJS+Expert;Java+%7C+Spring+Boot;5%2B+Years+Experience;Available+Worldwide" alt="Typing SVG" />
