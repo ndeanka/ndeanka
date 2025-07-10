@@ -22,14 +22,14 @@ const developer = {
   role: "Full-Stack Developer",
   experience: "5+ years",
   frontend: ["Angular", "React", "TypeScript"],
-  backend: ["Node.js", "NestJS", "Java", "Spring Boot"],
+  backend: ["Node.js","Express", "NestJS", "Java"],
   passion: "Building amazing web experiences"
 }
 ```
 
 **I build:**
 - 🔥 **Modern Web Apps** - Fast, scalable, beautiful interfaces
-- ⚡ **APIs & Backends** - Robust Node.js & Java microservices  
+- ⚡ **APIs & Backends** - Robust Node.js  
 - 🎨 **UI/UX** - Clean, responsive, user-focused designs
 - 🚀 **Full-Stack Solutions** - End-to-end development
 - ☁️ **Enterprise Applications** - Scalable, production-ready systems
