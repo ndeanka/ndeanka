@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ndeanka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
 
 </div>
 
@@ -102,14 +102,7 @@ const developer = {
 
 ---
 
-## 🎯 Currently Learning
 
-- ☁️ **Advanced Spring Boot** - Microservices patterns
-- 🔄 **DevOps** - Kubernetes & CI/CD pipelines
-- 🤖 **AI Integration** - Machine learning APIs
-- 📊 **Data Analytics** - Business intelligence tools
-
----
 
 ## 📞 Let's Connect
 
@@ -152,11 +145,10 @@ const developer = {
 ## 🛠️ Services I Offer
 
 - 🏢 **Enterprise Applications** - Scalable, robust web solutions
-- 🔧 **API Development** - Node.js & Java backend services
+- 🔧 **API Development** - RESTful & GraphQL services with Node.js & Java
 - 🎨 **Frontend Development** - Modern Angular, React & Next.js applications
 - 👥 **Technical Consulting** - Architecture design & code reviews
-- 🚀 **Performance Optimization** - Lightning-fast, efficient systems
-- 📱 **Mobile-First Design** - Responsive, cross-platform solutions
+- 🚀 **Performance Optimization** - High-speed, efficient systems
 - 🔐 **Security Implementation** - Authentication, authorization & data protection
 - ☁️ **Cloud Deployment** - AWS, Vercel, Heroku & Docker containerization
 
