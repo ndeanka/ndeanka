@@ -88,12 +88,10 @@ const developer = {
 
 ## 🌟 Skills & Expertise
 
-<div align="center">
-
-| Frontend | Backend | Java Ecosystem | Database | DevOps |
-|----------|---------|----------------|----------|--------|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Angular, React, Next.js | Node.js, NestJS | Java, Spring Boot | PostgreSQL, MongoDB | Docker, Git |
+**Frontend:** Angular, React, Next.js, TypeScript  
+**Backend:** Node.js, NestJS, Express, Java, Spring Boot  
+**Database:** PostgreSQL, MongoDB, MySQL, Redis  
+**DevOps:** Docker, Git, CI/CD  
 
 **Core Strengths:**
 - 🔧 **Microservices Architecture** - Node.js & Java Spring Boot expertise
@@ -101,8 +99,6 @@ const developer = {
 - 📱 **Responsive Design** - Mobile-first, cross-platform solutions
 - 🚀 **Performance Optimization** - High-speed, efficient applications
 - 🔐 **Security Best Practices** - Secure authentication & authorization
-
-</div>
 
 ---
 
@@ -117,8 +113,6 @@ const developer = {
 
 ## 📞 Let's Connect
 
-<div align="center">
-
 **🚀 Ready to build something amazing together?**
 
 **Available for:**
@@ -126,6 +120,8 @@ const developer = {
 - 🔧 **Freelance projects** - Short-term and long-term contracts
 - 🤝 **Technical consulting** - Architecture reviews and optimization
 - 🎯 **Startup partnerships** - Early-stage company collaborations
+
+<div align="center">
 
 <table>
   <tr>
@@ -154,8 +150,6 @@ const developer = {
 </table>
 
 ## 🛠️ Services I Offer
-
-### 💡 What I Can Help With
 
 - 🏢 **Enterprise Applications** - Scalable, robust web solutions
 - 🔧 **API Development** - Node.js & Java backend services
