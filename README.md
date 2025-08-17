@@ -84,17 +84,7 @@ const developer = {
 
 ---
 
-## 💼 Featured Projects
 
-| Project | Tech Stack | Impact | Users | Status |
-|---------|------------|---------|-------|--------|
-| 🏦 **Kikoba Financial** | Angular + NestJS + PostgreSQL | Financial management platform | 50K+ | 🟢 Live |
-| 💊 **PharmaTrack** | React + Node.js + TypeORM | Pharmacy inventory system | 15K+ | 🟢 Live |
-| 👥 **TeamPulse** | React + Express + MySQL | HR analytics dashboard | 5K+ | 🟢 Live |
-| 🚀 **E-Commerce Platform** | Next.js + Node.js + MongoDB | Modern online store | 10K+ | 🟡 In Development |
-| 📊 **Analytics Dashboard** | React + Express + PostgreSQL | Real-time data visualization | 2K+ | 🟢 Live |
-
----
 
 ## 🌟 Skills & Expertise
 
