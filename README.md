@@ -21,7 +21,7 @@ const developer = {
   name: "William Mlula",
   role: "Full-Stack Developer",
   experience: "5+ years",
-  frontend: ["Angular", "React", "TypeScript"],
+  frontend: ["Angular", "React", "Next.js", "TypeScript"],
   backend: ["Node.js","Express", "NestJS", "Java"],
   passion: "Building amazing web experiences"
 }
@@ -43,6 +43,7 @@ const developer = {
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -91,7 +92,7 @@ const developer = {
 | Frontend | Backend | Java Ecosystem | Database | DevOps |
 |----------|---------|----------------|----------|--------|
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Angular, React | Node.js, NestJS | Java, Spring Boot | PostgreSQL, MongoDB | Docker, Git |
+| Angular, React, Next.js | Node.js, NestJS | Java, Spring Boot | PostgreSQL, MongoDB | Docker, Git |
 
 **Core Strengths:**
 - 🔧 **Microservices Architecture** - Node.js & Java Spring Boot expertise
