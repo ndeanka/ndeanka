@@ -3,7 +3,7 @@
 # Willy Mlula
 ### Full-Stack Developer • Remote Ready
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Angular+%7C+React+Developer;Node.js+%7C+NestJS+%7C+Express+Expert;5%2B+Years+Experience;Available+Worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Angular+%7C+React+%7C+Next.js+Developer;Node.js+%7C+NestJS+%7C+Express+Expert;5%2B+Years+Experience;Available+Worldwide" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
@@ -46,23 +46,32 @@ const developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -77,11 +86,13 @@ const developer = {
 
 ## 💼 Featured Projects
 
-| Project | Tech Stack | Impact | Users |
-|---------|------------|---------|-------|
-| 🏦 **Kikoba Financial** | Angular + NestJS + PostgreSQL | Financial management platform | 50K+ |
-| 💊 **PharmaTrack** | React + Node.js + TypeORM | Pharmacy inventory system | 15K+ |
-| 👥 **TeamPulse** | React + Express + MySQL | HR analytics dashboard | 5K+ |
+| Project | Tech Stack | Impact | Users | Status |
+|---------|------------|---------|-------|--------|
+| 🏦 **Kikoba Financial** | Angular + NestJS + PostgreSQL | Financial management platform | 50K+ | 🟢 Live |
+| 💊 **PharmaTrack** | React + Node.js + TypeORM | Pharmacy inventory system | 15K+ | 🟢 Live |
+| 👥 **TeamPulse** | React + Express + MySQL | HR analytics dashboard | 5K+ | 🟢 Live |
+| 🚀 **E-Commerce Platform** | Next.js + Node.js + MongoDB | Modern online store | 10K+ | 🟡 In Development |
+| 📊 **Analytics Dashboard** | React + Express + PostgreSQL | Real-time data visualization | 2K+ | 🟢 Live |
 
 ---
 
@@ -118,7 +129,13 @@ const developer = {
 
 <div align="center">
 
-**Available for freelance, remote work, and exciting projects! 🚀**
+**🚀 Ready to build something amazing together?**
+
+**Available for:**
+- 💼 **Full-time positions** - Remote or hybrid opportunities
+- 🔧 **Freelance projects** - Short-term and long-term contracts
+- 🤝 **Technical consulting** - Architecture reviews and optimization
+- 🎯 **Startup partnerships** - Early-stage company collaborations
 
 <table>
   <tr>
@@ -146,13 +163,18 @@ const developer = {
   </tr>
 </table>
 
+## 🛠️ Services I Offer
+
 ### 💡 What I Can Help With
 
 - 🏢 **Enterprise Applications** - Scalable, robust web solutions
 - 🔧 **API Development** - Node.js & Java backend services
-- 🎨 **Frontend Development** - Modern Angular & React applications
+- 🎨 **Frontend Development** - Modern Angular, React & Next.js applications
 - 👥 **Technical Consulting** - Architecture design & code reviews
 - 🚀 **Performance Optimization** - Lightning-fast, efficient systems
+- 📱 **Mobile-First Design** - Responsive, cross-platform solutions
+- 🔐 **Security Implementation** - Authentication, authorization & data protection
+- ☁️ **Cloud Deployment** - AWS, Vercel, Heroku & Docker containerization
 
 ---
 
