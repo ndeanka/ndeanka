@@ -6,10 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Flutter;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Building+clear%2C+maintainable+products" alt="Animated summary of focus areas" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ndeanka)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ndeanka)
+<a href="https://www.linkedin.com/in/william-mlula-341a98147/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:williammlula4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/ndeanka"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/ndeanka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
@@ -76,33 +76,24 @@ const stack = {
 
 ## GitHub activity
 
-**Always-on metrics** (Shields — same data as on your profile, rarely blank):
+Live counts from **GitHub’s API** via [Shields.io](https://shields.io/) (HTML `<img>` tags — Markdown badges break inside `<div>` on GitHub).
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ndeanka?tab=followers"><img src="https://img.shields.io/github/followers/ndeanka?style=for-the-badge&logo=github&label=Followers&color=1f2328" alt="GitHub follower count for ndeanka" /></a>
+  <a href="https://github.com/ndeanka?tab=following"><img src="https://img.shields.io/github/following/ndeanka?style=for-the-badge&logo=github&label=Following&color=1f2328" alt="GitHub following count for ndeanka" /></a>
+  <a href="https://github.com/ndeanka?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=1f2328" alt="Public repository count for ndeanka" /></a>
+  <a href="https://gist.github.com/ndeanka"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_gists&label=public%20gists&style=for-the-badge&logo=github&color=1f2328" alt="Public gist count for ndeanka" /></a>
+</p>
 
-[![Followers](https://img.shields.io/github/followers/ndeanka?style=for-the-badge&logo=github&label=Followers&color=1f2328)](https://github.com/ndeanka?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=1f2328)](https://github.com/ndeanka?tab=repositories)
+**Contributions, languages, streak** — same live GitHub data; if a card fails to load, the shared host is rate-limited. Click the image for your profile, or [self-host stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
-</div>
-
-**Cards** (shared free hosting — sometimes rate-limited; click an image to open your profile if one fails to load):
-
-<div align="center">
-
-<a href="https://github.com/ndeanka">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub statistics for ndeanka" />
-</a>
-<a href="https://github.com/ndeanka">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most used languages on GitHub for ndeanka" />
-</a>
-
-<a href="https://github.com/ndeanka">
-  <img src="https://streak-stats.demolab.com/?user=ndeanka&theme=tokyonight&hide_border=true" alt="Contribution streak for ndeanka" />
-</a>
-
-</div>
-
-*For cards that load every time, deploy your own [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the `vercel.app` URLs.*
+<p align="center">
+  <a href="https://github.com/ndeanka"><img height="170" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&include_all_commits=true" alt="GitHub statistics: commits, stars, PRs, issues for ndeanka" /></a>
+  <a href="https://github.com/ndeanka"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most-used languages on GitHub for ndeanka" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ndeanka"><img src="https://streak-stats.demolab.com/?user=ndeanka&theme=tokyonight&hide_border=true" alt="Contribution streak for ndeanka" /></a>
+</p>
 
 ---
 

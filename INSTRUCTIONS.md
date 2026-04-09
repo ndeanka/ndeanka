@@ -14,11 +14,12 @@ Widgets and assets referenced in `README.md`:
 
 1. Repo name must match **`<your-github-username>`** for GitHub to show it on your profile.  
 2. Replace every **`ndeanka`** in image URLs and alt text with **your username**.  
-3. Edit the **typing SVG** `lines=` query (URL-encoded phrases separated by `;`).  
-4. Update **`skillicons.dev`** query if your stack differs ([supported icons](https://skillicons.dev)).  
-5. Refresh **About**, **Right now**, the **stack table**, and **Let’s connect** links.  
-6. Uncomment or add bullet links under **Featured work** if you want explicit project callouts.  
-7. **Pin** 3–6 repositories on your profile — the README sends readers there for proof of work.
+3. **Do not use Markdown `[![badge](url)]()` inside `<div>`** — GitHub will not render it; use `<a><img …></a>` or `<p align="center">` like this README.  
+4. Edit the **typing SVG** `lines=` query (URL-encoded phrases separated by `;`).  
+5. Update **`skillicons.dev`** query if your stack differs ([supported icons](https://skillicons.dev)).  
+6. Refresh **About**, **Right now**, the **stack table**, and **Let’s connect** links.  
+7. Uncomment or add bullet links under **Featured work** if you want explicit project callouts.  
+8. **Pin** 3–6 repositories on your profile — the README sends readers there for proof of work.
 
 ### Private contributions in stats
 
