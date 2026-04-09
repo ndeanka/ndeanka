@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ndeanka)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ndeanka)
 
 </div>
 
@@ -25,6 +26,15 @@ const stack = {
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
 } as const;
 ```
+
+---
+
+## Right now
+
+<!-- Edit these bullets whenever you like. -->
+
+- **Building:** *(add a repo or product you’re focused on)*  
+- **Open to:** full-time, contract, or consulting — remote-friendly  
 
 ---
 
@@ -55,22 +65,41 @@ const stack = {
 
 ## Featured work
 
-The best view of what I build is on my profile: **pin your strongest repos** so they show above this README. Browse all repositories **[here](https://github.com/ndeanka?tab=repositories)**.
+**Pin** your strongest repositories on your GitHub profile — they show above this README. Optional: add bullet links below.
+
+<!-- - **[Project name](https://github.com/ndeanka/...)** — short description -->
 
 ---
 
 ## GitHub activity
 
+**Always-on metrics** (Shields — same data as on your profile, rarely blank):
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for ndeanka" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages on GitHub for ndeanka" />
-
-<img src="https://streak-stats.demolab.com/?user=ndeanka&theme=tokyonight&hide_border=true" alt="Contribution streak for ndeanka" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub profile trophies for ndeanka" />
+[![Followers](https://img.shields.io/github/followers/ndeanka?style=for-the-badge&logo=github&label=Followers&color=1f2328)](https://github.com/ndeanka?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=1f2328)](https://github.com/ndeanka?tab=repositories)
 
 </div>
+
+**Cards** (shared free hosting — sometimes rate-limited; click an image to open your profile if one fails to load):
+
+<div align="center">
+
+<a href="https://github.com/ndeanka">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub statistics for ndeanka" />
+</a>
+<a href="https://github.com/ndeanka">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most used languages on GitHub for ndeanka" />
+</a>
+
+<a href="https://github.com/ndeanka">
+  <img src="https://streak-stats.demolab.com/?user=ndeanka&theme=tokyonight&hide_border=true" alt="Contribution streak for ndeanka" />
+</a>
+
+</div>
+
+*For cards that load every time, deploy your own [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the `vercel.app` URLs.*
 
 ---
 
