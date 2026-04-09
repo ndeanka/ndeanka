@@ -1,161 +1,95 @@
 <div align="center">
 
-# Willy Mlula
-### Full-Stack Developer • Remote Ready
+# William Mlula
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Angular+%7C+React+%7C+Next.js+Developer;Node.js+%7C+NestJS+%7C+Express+Expert;5%2B+Years+Experience;Available+Worldwide" alt="Typing SVG" />
+**Full-stack developer** · Remote · UTC+3
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Building+clear%2C+maintainable+products" alt="Animated summary of focus areas" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ndeanka)
-
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ndeanka)
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## About
+
+I ship **web products end to end**: structured front ends (Angular or React), solid APIs and services (**Laravel**, **Node.js**, **Java**), and data layers on **MySQL**, **PostgreSQL**, and **MongoDB**. I care about typed, testable code and interfaces that stay understandable as products grow.
 
 ```typescript
-const developer = {
-  name: "William Mlula",
-  role: "Full-Stack Developer",
-  experience: "5+ years",
-  frontend: ["Angular", "React", "Next.js", "TypeScript"],
-  backend: ["Node.js","Express", "NestJS", "Java"],
-  passion: "Building amazing web experiences"
-}
+const stack = {
+  frontend: ["Angular", "React", "TypeScript"],
+  backend: ["Laravel", "Node.js", "Java"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+} as const;
 ```
 
-**I build:**
-- 🔥 **Modern Web Apps** - Fast, scalable, beautiful interfaces
-- ⚡ **APIs & Backends** - Robust Node.js  
-- 🎨 **UI/UX** - Clean, responsive, user-focused designs
-- 🚀 **Full-Stack Solutions** - End-to-end development
-- ☁️ **Enterprise Applications** - Scalable, production-ready systems
-
 ---
 
-## 🛠️ Tech Stack
+## Tech at a glance
 
 <div align="center">
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Icons: Angular, React, TypeScript, Laravel, Node.js, Java, MySQL, PostgreSQL, MongoDB" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+</div>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| | |
+|--|--|
+| **Frontend** | Angular, React, TypeScript |
+| **Backend** | Laravel, Node.js, Java |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+
+---
+
+## What I focus on
+
+- **SPAs and component-driven UIs** — Angular and React, reusable patterns, performance-conscious templates  
+- **Server-side and APIs** — Laravel apps, Node services, Java backends; REST-first, clear contracts  
+- **Data modeling** — relational design (MySQL, PostgreSQL) and document workflows (MongoDB) where they fit the problem  
+- **Delivery** — Docker-friendly setups, Git-based workflows, CI when the project needs it  
+
+---
+
+## Featured work
+
+The best view of what I build is on my profile: **pin your strongest repos** so they show above this README. Browse all repositories **[here](https://github.com/ndeanka?tab=repositories)**.
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for ndeanka" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages on GitHub for ndeanka" />
+
+<img src="https://streak-stats.demolab.com/?user=ndeanka&theme=tokyonight&hide_border=true" alt="Contribution streak for ndeanka" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub profile trophies for ndeanka" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## Let’s connect
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
+Open to **full-time** (remote or hybrid), **contract work**, and **technical consulting**.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndeanka&theme=tokyonight&hide_border=true" />
-</div>
+| | |
+|--|--|
+| **Email** | [williammlula4@gmail.com](mailto:williammlula4@gmail.com) |
+| **LinkedIn** | [william-mlula-341a98147](https://www.linkedin.com/in/william-mlula-341a98147/) |
+| **X** | [@ndeanka](https://twitter.com/ndeanka) |
 
 ---
 
-
-
-## 🌟 Skills & Expertise
-
-**Frontend:** Angular, React, Next.js, TypeScript  
-**Backend:** Node.js, NestJS, Express, Java, Spring Boot  
-**Database:** PostgreSQL, MongoDB, MySQL, Redis  
-**DevOps:** Docker, Git, CI/CD  
-
-**Core Strengths:**
-- 🔧 **Microservices Architecture** - Node.js & Java Spring Boot expertise
-- 🎯 **API Development** - RESTful & GraphQL service design
-- 📱 **Responsive Design** - Mobile-first, cross-platform solutions
-- 🚀 **Performance Optimization** - High-speed, efficient applications
-- 🔐 **Security Best Practices** - Secure authentication & authorization
-
----
-
-
-
-## 📞 Let's Connect
-
-**🚀 Ready to build something amazing together?**
-
-**Available for:**
-- 💼 **Full-time positions** - Remote or hybrid opportunities
-- 🔧 **Freelance projects** - Short-term and long-term contracts
-- 🤝 **Technical consulting** - Architecture reviews and optimization
-- 🎯 **Startup partnerships** - Early-stage company collaborations
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:williammlula4@gmail.com">
-        <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-        <br><b>williammlula4@gmail.com</b>
-        <br><small>Quick response guaranteed</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/william-mlula-341a98147/">
-        <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        <br><b>Professional Profile</b>
-        <br><small>Connect & collaborate</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/ndeanka">
-        <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-        <br><b>Tech Updates</b>
-        <br><small>Follow my journey</small>
-      </a>
-    </td>
-  </tr>
-</table>
+*Code is poetry written in logic.*
 
-## 🛠️ Services I Offer
-
-- 🏢 **Enterprise Applications** - Scalable, robust web solutions
-- 🔧 **API Development** - RESTful & GraphQL services with Node.js & Java
-- 🎨 **Frontend Development** - Modern Angular, React & Next.js applications
-- 👥 **Technical Consulting** - Architecture design & code reviews
-- 🚀 **Performance Optimization** - High-speed, efficient systems
-- 🔐 **Security Implementation** - Authentication, authorization & data protection
-- ☁️ **Cloud Deployment** - AWS, Vercel, Heroku & Docker containerization
-
----
-
-*"Code is poetry written in logic"* 
-
-**🌍 Remote • 🕐 UTC+3 • 💬 English • ☕ Coffee-powered**
+**Remote · English**
 
 </div>
