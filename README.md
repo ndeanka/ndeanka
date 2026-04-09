@@ -33,7 +33,7 @@ const stack = {
 
 <!-- Edit these bullets whenever you like. -->
 
-- **Building:** *(add a repo or product you’re focused on)*  
+- **Building:** pharmacy management system — web and mobile  
 - **Open to:** full-time, contract, or consulting — remote-friendly  
 
 ---
