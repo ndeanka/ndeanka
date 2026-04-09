@@ -4,7 +4,7 @@
 
 **Full-stack developer** · Remote · UTC+3
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Building+clear%2C+maintainable+products" alt="Animated summary of focus areas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Flutter;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Building+clear%2C+maintainable+products" alt="Animated summary of focus areas" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mlula-341a98147/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williammlula4@gmail.com)
@@ -17,11 +17,12 @@
 
 ## About
 
-I ship **web products end to end**: structured front ends (Angular or React), solid APIs and services (**Laravel**, **Node.js**, **Java**), and data layers on **MySQL**, **PostgreSQL**, and **MongoDB**. I care about typed, testable code and interfaces that stay understandable as products grow.
+I ship **web and mobile products end to end**: structured web UIs (Angular or React), **Flutter** for mobile, solid APIs and services (**Laravel**, **Node.js**, **Java**), and data layers on **MySQL**, **PostgreSQL**, and **MongoDB**. I care about typed, testable code and interfaces that stay understandable as products grow.
 
 ```typescript
 const stack = {
-  frontend: ["Angular", "React", "TypeScript"],
+  web: ["Angular", "React", "TypeScript"],
+  mobile: ["Flutter"],
   backend: ["Laravel", "Node.js", "Java"],
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
 } as const;
@@ -42,13 +43,14 @@ const stack = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Icons: Angular, React, TypeScript, Laravel, Node.js, Java, MySQL, PostgreSQL, MongoDB" />
+<img src="https://skillicons.dev/icons?i=angular,react,ts,flutter,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Icons: Angular, React, TypeScript, Flutter, Laravel, Node.js, Java, MySQL, PostgreSQL, MongoDB" />
 
 </div>
 
 | | |
 |--|--|
-| **Frontend** | Angular, React, TypeScript |
+| **Web** | Angular, React, TypeScript |
+| **Mobile** | Flutter |
 | **Backend** | Laravel, Node.js, Java |
 | **Databases** | MySQL, PostgreSQL, MongoDB |
 
@@ -57,6 +59,7 @@ const stack = {
 ## What I focus on
 
 - **SPAs and component-driven UIs** — Angular and React, reusable patterns, performance-conscious templates  
+- **Mobile** — Flutter for cross-platform apps aligned with the same APIs and domain model as web  
 - **Server-side and APIs** — Laravel apps, Node services, Java backends; REST-first, clear contracts  
 - **Data modeling** — relational design (MySQL, PostgreSQL) and document workflows (MongoDB) where they fit the problem  
 - **Delivery** — Docker-friendly setups, Git-based workflows, CI when the project needs it  
