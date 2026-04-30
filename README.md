@@ -46,7 +46,7 @@ const profile = {
 | :--- | :--- |
 | **Frontend** | Angular, React, TypeScript, SCSS, Tailwind CSS |
 | **Backend** | Laravel, Node.js (Express/NestJS), Java (Spring Boot) |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
 | **DevOps** | Docker, GitHub Actions |
 
 ---
