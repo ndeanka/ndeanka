@@ -19,14 +19,13 @@
 
 ### 🚀 About Me
 
-I specialize in shipping **premium web and mobile products** from conception to deployment. My focus is on building structured, scalable UIs with **Angular** and **React**, high-performance mobile apps with **Flutter**, and robust backends using **Laravel**, **Node.js**, and **Java**.
+I specialize in shipping **premium web and mobile products** from conception to deployment. My focus is on building structured, scalable UIs with **Angular** and **React**, high-performance mobile apps, and robust backends using **Laravel**, **Node.js**, and **Java**.
 
 I believe in **clean code**, **typed interfaces**, and **user-centric design**. Whether it's architecting a complex data layer or polishing a micro-animation, I strive for excellence in every line of code.
 
 ```typescript
 const profile = {
-  pronouns: "He/Him",
-  code: ["TypeScript", "PHP", "Java", "Dart"],
+  code: ["TypeScript", "PHP", "Java"],
   tools: ["Docker", "Git", "CI/CD"],
   architecture: ["RESTful APIs", "Microservices", "Component-Driven UI"],
   challenge: "Building products that stay maintainable as they scale."
@@ -38,7 +37,7 @@ const profile = {
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,flutter,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -46,17 +45,16 @@ const profile = {
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | Angular, React, TypeScript, SCSS, Tailwind CSS |
-| **Mobile** | Flutter, Dart |
 | **Backend** | Laravel, Node.js (Express/NestJS), Java (Spring Boot) |
 | **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
-| **DevOps** | Docker, GitHub Actions, AWS/Vercel/Heroku |
+| **DevOps** | Docker, GitHub Actions |
 
 ---
 
 ### 🛠️ Current Focus
 
 - 🏗️ **Building:** A comprehensive pharmacy management ecosystem (Web & Mobile).
-- 🔭 **Exploring:** Advanced RxJS patterns and Flutter state management optimization.
+- 🔭 **Exploring:** Advanced RxJS patterns and state management optimization.
 - 💬 **Open to:** Full-time roles, strategic contracts, or technical consulting.
 
 ---
