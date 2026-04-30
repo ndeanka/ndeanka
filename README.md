@@ -17,11 +17,11 @@
 
 ---
 
-### 🚀 About Me
+### About
 
-I specialize in shipping **premium web and mobile products** from conception to deployment. My focus is on building structured, scalable UIs with **Angular** and **React**, high-performance mobile apps, and robust backends using **Laravel**, **Node.js**, and **Java**.
+I build production-grade web and mobile products from idea to deployment. My focus is structured, scalable UIs with **Angular** and **React**, plus reliable backend systems with **Laravel**, **Node.js**, and **Java**.
 
-I believe in **clean code**, **typed interfaces**, and **user-centric design**. Whether it's architecting a complex data layer or polishing a micro-animation, I strive for excellence in every line of code.
+I prioritize **clean code**, **typed contracts**, and **user-centered design** to keep products maintainable as they grow.
 
 ```typescript
 const profile = {
@@ -34,7 +34,7 @@ const profile = {
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Tech Stack Icons" />
@@ -51,15 +51,15 @@ const profile = {
 
 ---
 
-### 🛠️ Current Focus
+### Current Focus
 
-- 🏗️ **Building:** A comprehensive pharmacy management ecosystem (Web & Mobile).
-- 🔭 **Exploring:** Advanced RxJS patterns and state management optimization.
-- 💬 **Open to:** Full-time roles, strategic contracts, or technical consulting.
+- **Building:** A comprehensive pharmacy management ecosystem (web and mobile).
+- **Exploring:** Advanced RxJS patterns and state management optimization.
+- **Open to:** Full-time roles, strategic contracts, and technical consulting.
 
 ---
 
-### 📈 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <table border="0">
@@ -82,16 +82,15 @@ const profile = {
 
 ---
 
-### ✨ Featured Work
+### Featured Work
 
-> [!TIP]
-> **Check out my pinned repositories above** for a deep dive into my recent open-source work and architectural patterns.
+Check the pinned repositories for recent open-source work, architecture patterns, and product-focused implementations.
 
 ---
 
-### 📫 Connect with Me
+### Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:williammlula4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
