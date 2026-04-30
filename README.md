@@ -57,6 +57,11 @@ const profile = {
 - **Exploring:** Advanced RxJS patterns and state management optimization.
 - **Open to:** Full-time roles, strategic contracts, and technical consulting.
 
+<p align="center">
+  <a href="mailto:williammlula4@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
+  <a href="https://www.linkedin.com/in/william-mlula-341a98147/"><img src="https://img.shields.io/badge/Book%20a%20Call-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Book a Call" /></a>
+</p>
+
 ---
 
 ### GitHub Statistics
@@ -84,8 +89,11 @@ const profile = {
 
 ### Featured Work
 
-Explore [pinned repositories](https://github.com/ndeanka?tab=repositories)
-for recent open-source work, architecture patterns, and product-focused implementations.
+Browse selected work and recent builds:
+
+- [Pinned repositories](https://github.com/ndeanka?tab=repositories) — strongest highlights and architecture patterns
+- [All public repositories](https://github.com/ndeanka?tab=repositories&type=public) — full project history
+- [Recently updated projects](https://github.com/ndeanka?tab=repositories&sort=updated) — latest active work
 
 ---
 
