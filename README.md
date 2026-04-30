@@ -19,9 +19,11 @@
 
 ### About
 
-I build production-grade web and mobile products from idea to deployment. My focus is structured, scalable UIs with **Angular** and **React**, plus reliable backend systems with **Laravel**, **Node.js**, and **Java**.
+I build production-grade web and mobile products from idea to deployment.
+My focus is structured, scalable UIs with **Angular** and **React**, plus reliable backend systems with **Laravel**, **Node.js**, and **Java**.
 
-I prioritize **clean code**, **typed contracts**, and **user-centered design** to keep products maintainable as they grow.
+I prioritize **clean code**, **typed contracts**, and **user-centered design**
+to keep products maintainable as they grow.
 
 ```typescript
 const profile = {
@@ -39,8 +41,6 @@ const profile = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Tech Stack Icons" />
 </div>
-
-<br/>
 
 | Category | Technologies |
 | :--- | :--- |
@@ -84,7 +84,8 @@ const profile = {
 
 ### Featured Work
 
-Check the pinned repositories for recent open-source work, architecture patterns, and product-focused implementations.
+Explore [pinned repositories](https://github.com/ndeanka?tab=repositories)
+for recent open-source work, architecture patterns, and product-focused implementations.
 
 ---
 
@@ -98,7 +99,7 @@ Check the pinned repositories for recent open-source work, architecture patterns
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/ndeanka">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
