@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=William+Mlula;Full-stack+Engineer;Creative+Problem+Solver" alt="Typing SVG" />
+
+<pre align="center">
+  ╭────────────────────────────────────────╮
+  │   ndeanka · ships software · UTC+3    │
+  ╰────────────────────────────────────────╯
+</pre>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D1FF&center=true&vCenter=true&width=640&lines=William+Mlula;Full-stack+Engineer;Will+Debug+For+Snacks;Probably+Not+Deploying+on+Friday" alt="Typing SVG" />
 
   <p align="center">
     <strong>Full-stack Developer · Remote · UTC+3</strong>
@@ -12,27 +19,39 @@
     <a href="https://github.com/ndeanka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=79dafa&center=true&vCenter=true&width=520&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Building+High-End+Digital+Solutions" alt="Animated summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&color=79dafa&center=true&vCenter=true&width=560&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Tabs+or+spaces%3F+Yes.;It+works+on+my+machine+%E2%80%94+and+yours+too" alt="Animated summary" />
 </div>
 
 ---
 
 ### About
 
-I build production-grade web and mobile products from idea to deployment.
-My focus is structured, scalable UIs with **Angular** and **React**, plus reliable backend systems with **Laravel**, **Node.js**, and **Java**.
+I build production-grade web and mobile products from idea to deployment.  
+Front ends that behave (**Angular**, **React**), backends that don’t ghost you (**Laravel**, **Node.js**, **Java**).
 
-I prioritize **clean code**, **typed contracts**, and **user-centered design**
-to keep products maintainable as they grow.
+I like **clean code**, **typed contracts**, and interfaces humans can actually use—so future-you doesn’t file a bug against past-you.
 
 ```typescript
 const profile = {
   code: ["TypeScript", "PHP", "Java"],
   tools: ["Docker", "Git", "CI/CD"],
   architecture: ["RESTful APIs", "Microservices", "Component-Driven UI"],
-  challenge: "Building products that stay maintainable as they scale."
-};
+  superpower: "Turning 'we need it Tuesday' into something shippable",
+  nemesis: "mystery production-only bugs",
+} as const;
 ```
+
+<details>
+<summary><b>FAQ (Frequently Absurd Questions)</b></summary>
+
+| | |
+| :--- | :--- |
+| **Favorite HTTP status?** | `418` — I’m a teapot at heart. |
+| **Tabs or spaces?** | Whatever the linter says. I’m not brave enough to argue. |
+| **Why so many stacks?** | Clients ask for features, not framework monogamy. |
+| **Biggest fear?** | A green build that’s lying to me. |
+
+</details>
 
 ---
 
@@ -114,7 +133,7 @@ Browse selected work and recent builds:
 ---
 
 <div align="center">
-  <sub><i>"Code is poetry written in logic."</i></sub>
-  <br/>
+  <sub><i>“Works on my machine” — famous last words, professionally avoided.</i></sub>
+  <br/><br/>
   <b>Remote · Available Worldwide</b>
 </div>
