@@ -1,173 +1,145 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:16213e,100:00D1FF&height=160&section=header&text=William%20Mlula&fontSize=40&fontColor=a9b1d6&animation=twinkling&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Remote%20%C2%B7%20UTC%2B3&descAlignY=56&descSize=16" alt="Header banner" />
+
 <div align="center">
 
-<pre align="center">
-  ╭────────────────────────────────────────╮
-  │   ndeanka · ships software · UTC+3    │
-  ╰────────────────────────────────────────╯
-</pre>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=680&lines=Ships+products+end-to-end;Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node+%E2%80%A2+Java;Will+debug+for+snacks;Not+shipping+on+Friday+%28probably%29" alt="Animated headline" /></a>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D1FF&center=true&vCenter=true&width=640&lines=William+Mlula;Full-stack+Engineer;Will+Debug+For+Snacks;Probably+Not+Deploying+on+Friday" alt="Typing SVG" />
-
-  <p align="center">
-    <strong>Full-stack Developer · Remote · UTC+3</strong>
+  <p>
+    <strong>Production web &amp; mobile · typed APIs · UX that survives contact with users</strong>
   </p>
 
-  <p align="center">
+  <p>
     <a href="https://www.linkedin.com/in/william-mlula-341a98147/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:williammlula4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://twitter.com/ndeanka"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://github.com/ndeanka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&color=79dafa&center=true&vCenter=true&width=560&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Tabs+or+spaces%3F+Yes.;It+works+on+my+machine+%E2%80%94+and+yours+too" alt="Animated summary" />
+  <p>
+    <a href="mailto:williammlula4@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
+    <a href="https://www.linkedin.com/in/william-mlula-341a98147/"><img src="https://img.shields.io/badge/Book%20a%20call-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Book a call" /></a>
+  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=ndeanka&label=Profile+visitors&color=00d1ff&style=flat&labelColor=1a1b26" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ndeanka&label=Profile+views&color=00d1ff&style=flat&labelColor=1a1b26" alt="Profile views" />
 </div>
 
 ---
 
-### About
+## About
 
-I build production-grade web and mobile products from idea to deployment.  
-Front ends that behave (**Angular**, **React**), backends that don’t ghost you (**Laravel**, **Node.js**, **Java**).
+I take ideas from **whiteboard → production**: scalable **Angular** / **React** front ends, dependable **Laravel**, **Node.js**, and **Java** backends, and data layers that behave (**MySQL**, **PostgreSQL**, **MongoDB**).
 
-I like **clean code**, **typed contracts**, and interfaces humans can actually use—so future-you doesn’t file a bug against past-you.
+I care about **strict typing**, **clear API contracts**, and interfaces that stay usable as the product grows—so you ship faster later, not just now.
 
 ```typescript
-const profile = {
+const ndeanka = {
   code: ["TypeScript", "PHP", "Java"],
   tools: ["Docker", "Git", "CI/CD"],
-  architecture: ["RESTful APIs", "Microservices", "Component-Driven UI"],
-  superpower: "Turning 'we need it Tuesday' into something shippable",
-  nemesis: "mystery production-only bugs",
+  architecture: ["REST", "services", "component-driven UI"],
+  superpower: "Tuesday deadlines → shippable increments",
+  nemesis: "bugs that only exist in prod",
 } as const;
 ```
 
 ```yaml
-# ~/.ndeanka/status.yml — hand-wavy but accurate
-building: "pharmacy ecosystem (web + mobile)" # I’m basically a pharmacist for code
-exploring: "RxJS patterns, state that doesn’t fight you"
-collabs: "products with real users and clear scope"
+# ~/.ndeanka/status.yml
+building: "pharmacy ecosystem (web + mobile)"
+exploring: "RxJS, state that doesn't fight back"
+collabs: "real users, clear scope, adult timelines"
 still_learning: 'saying "no" to Friday deploys'
-fun_fact: "the rubber duck on my desk has seniority"
 ```
 
 <details>
-<summary><b>FAQ (Frequently Absurd Questions)</b></summary>
+<summary><b>More — FAQ, jokes, quotes</b></summary>
 
 | | |
 | :--- | :--- |
-| **Favorite HTTP status?** | `418` — I’m a teapot at heart. |
-| **Tabs or spaces?** | Whatever the linter says. I’m not brave enough to argue. |
-| **Why so many stacks?** | Clients ask for features, not framework monogamy. |
-| **Biggest fear?** | A green build that’s lying to me. |
+| **Favorite HTTP status?** | `418` — teapot energy. |
+| **Tabs or spaces?** | Whatever the linter picks. |
+| **Why so many stacks?** | Features over framework loyalty. |
+| **Biggest fear?** | Green CI that lied. |
 
+<br/>
+
+<details>
+<summary><b>Random dev joke</b> (refreshes when GitHub re-renders)</summary>
+<p align="center">
+  <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke" /></a>
+</p>
 </details>
 
 <details>
-<summary><b>🎲 While you’re here — random dev joke</b> (refreshes on load)</summary>
-  <p align="center">
-    <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke card" /></a>
-  </p>
-  <sub>Powered by <a href="https://github.com/ABSphreak/readme-jokes">readme-jokes</a> · card changes when GitHub re-renders the README</sub>
+<summary><b>Random programming quote</b></summary>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming quote" />
+</p>
 </details>
 
-<details>
-<summary><b>💬 Bonus: rotating programming quote</b></summary>
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random programming quote" />
-  </p>
 </details>
 
 ---
 
-### Tech Stack
+## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb,docker,git,github&perline=12" alt="Skills" />
 </div>
 
-| Category | Technologies |
+| Layer | Tools |
 | :--- | :--- |
-| **Frontend** | Angular, React, TypeScript, SCSS, Tailwind CSS |
-| **Backend** | Laravel, Node.js (Express/NestJS), Java (Spring Boot) |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **DevOps** | Docker, GitHub Actions |
+| **UI** | Angular, React, TypeScript, SCSS, Tailwind CSS |
+| **API &amp; services** | Laravel, Node (Express / Nest), Java (Spring Boot) |
+| **Data** | MySQL, PostgreSQL, MongoDB |
+| **Delivery** | Docker, GitHub Actions |
 
 ---
 
-### Current Focus
+## Focus now
 
-- **Building:** A comprehensive pharmacy management ecosystem (web and mobile).
-- **Exploring:** Advanced RxJS patterns and state management optimization.
-- **Open to:** Full-time roles, strategic contracts, and technical consulting.
-
-<p align="center">
-  <a href="mailto:williammlula4@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
-  <a href="https://www.linkedin.com/in/william-mlula-341a98147/"><img src="https://img.shields.io/badge/Book%20a%20Call-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Book a Call" /></a>
-</p>
+- **Shipping:** Pharmacy management ecosystem — web + mobile.
+- **Leveling up:** Advanced RxJS, leaner state management.
+- **Open to:** Full-time, focused contracts, technical consulting.
 
 ---
 
-### GitHub Statistics
+## GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=a9b1d6&bg_color=1a1b26" alt="General Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com/?user=ndeanka&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakNum=00D1FF" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ndeanka&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=a9b1d6&bg_color=1a1b26&rank_icon=percentile&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=a9b1d6&bg_color=1a1b26&exclude_repo=ndeanka&langs_count=8" alt="Top languages" />
 </div>
 
-<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ndeanka&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakNum=00D1FF" alt="Contribution streak" />
+</div>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndeanka&theme=tokyo-night&hide_border=true&custom_title=Contribution%20activity&bg_color=1a1b26&color=a9b1d6&line=00D1FF&point=7aa2f7&area_color=00D1FF&area=true" alt="Contribution activity graph" />
+
+<div align="center">
   <a href="https://github.com/ndeanka?tab=followers"><img src="https://img.shields.io/github/followers/ndeanka?style=for-the-badge&logo=github&label=Followers&color=00D1FF&labelColor=1a1b26" alt="Followers" /></a>
-  <a href="https://github.com/ndeanka?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=00D1FF&labelColor=1a1b26" alt="Repos" /></a>
-</p>
-
-### Trophies
+  <a href="https://github.com/ndeanka?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=00D1FF&labelColor=1a1b26" alt="Repositories" /></a>
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </div>
 
 ---
 
-### Featured Work
+## Repos to browse
 
-Browse selected work and recent builds:
-
-- [Pinned repositories](https://github.com/ndeanka?tab=repositories) — strongest highlights and architecture patterns
-- [All public repositories](https://github.com/ndeanka?tab=repositories&type=public) — full project history
-- [Recently updated projects](https://github.com/ndeanka?tab=repositories&sort=updated) — latest active work
-
----
-
-### Contact
-
-<p align="center">
-  <a href="mailto:williammlula4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/william-mlula-341a98147/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ndeanka">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+- [**Pinned**](https://github.com/ndeanka?tab=repositories) — best examples of how I structure work  
+- [**All public**](https://github.com/ndeanka?tab=repositories&type=public) — full history  
+- [**Recently updated**](https://github.com/ndeanka?tab=repositories&sort=updated) — what’s active now  
 
 ---
 
 <div align="center">
-  <sub><i>“Works on my machine” — famous last words, professionally avoided.</i></sub>
-  <br/><br/>
-  <b>Remote · Available Worldwide</b>
+  <sub><i>“Works on my machine” — professionally avoided.</i></sub>
+  <br /><br />
+  <b>Remote · worldwide</b>
 </div>
 
-<!-- If you're reading the raw README: may your next build be green and your logs be readable. -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,50:16213e,100:1a1b26&height=100&section=footer" alt="Footer banner" />
+
+<!-- Raw README readers: green builds and honest logs. -->
