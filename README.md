@@ -20,6 +20,8 @@
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&color=79dafa&center=true&vCenter=true&width=560&lines=Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node.js+%E2%80%A2+Java;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Tabs+or+spaces%3F+Yes.;It+works+on+my+machine+%E2%80%94+and+yours+too" alt="Animated summary" />
+
+  <img src="https://komarev.com/ghpvc/?username=ndeanka&label=Profile+visitors&color=00d1ff&style=flat&labelColor=1a1b26" alt="Profile views" />
 </div>
 
 ---
@@ -41,6 +43,15 @@ const profile = {
 } as const;
 ```
 
+```yaml
+# ~/.ndeanka/status.yml — hand-wavy but accurate
+building: "pharmacy ecosystem (web + mobile)" # I’m basically a pharmacist for code
+exploring: "RxJS patterns, state that doesn’t fight you"
+collabs: "products with real users and clear scope"
+still_learning: 'saying "no" to Friday deploys'
+fun_fact: "the rubber duck on my desk has seniority"
+```
+
 <details>
 <summary><b>FAQ (Frequently Absurd Questions)</b></summary>
 
@@ -51,6 +62,21 @@ const profile = {
 | **Why so many stacks?** | Clients ask for features, not framework monogamy. |
 | **Biggest fear?** | A green build that’s lying to me. |
 
+</details>
+
+<details>
+<summary><b>🎲 While you’re here — random dev joke</b> (refreshes on load)</summary>
+  <p align="center">
+    <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke card" /></a>
+  </p>
+  <sub>Powered by <a href="https://github.com/ABSphreak/readme-jokes">readme-jokes</a> · card changes when GitHub re-renders the README</sub>
+</details>
+
+<details>
+<summary><b>💬 Bonus: rotating programming quote</b></summary>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random programming quote" />
+  </p>
 </details>
 
 ---
@@ -104,6 +130,12 @@ const profile = {
   <a href="https://github.com/ndeanka?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=00D1FF&labelColor=1a1b26" alt="Repos" /></a>
 </p>
 
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</div>
+
 ---
 
 ### Featured Work
@@ -137,3 +169,5 @@ Browse selected work and recent builds:
   <br/><br/>
   <b>Remote · Available Worldwide</b>
 </div>
+
+<!-- If you're reading the raw README: may your next build be green and your logs be readable. -->
