@@ -88,7 +88,7 @@ still_learning: 'saying "no" to Friday deploys'
 | Layer | Tools |
 | :--- | :--- |
 | **UI** | Angular, React, TypeScript, SCSS, Tailwind CSS |
-| **API &amp; services** | Laravel, Node (Express / Nest), Java (Spring Boot) |
+| **API &amp; services** | Laravel, Node (Express / Nest), Java |
 | **Data** | MySQL, PostgreSQL, MongoDB |
 | **Delivery** | Docker, GitHub Actions |
 
@@ -128,9 +128,9 @@ still_learning: 'saying "no" to Friday deploys'
 
 ## Repos to browse
 
-- [**Pinned**](https://github.com/ndeanka?tab=repositories) — best examples of how I structure work  
-- [**All public**](https://github.com/ndeanka?tab=repositories&type=public) — full history  
-- [**Recently updated**](https://github.com/ndeanka?tab=repositories&sort=updated) — what’s active now  
+- [**Pinned**](https://github.com/ndeanka?tab=repositories) — best examples of how I structure work
+- [**All public**](https://github.com/ndeanka?tab=repositories&type=public) — full history
+- [**Recently updated**](https://github.com/ndeanka?tab=repositories&sort=updated) — what’s active now
 
 ---
 
