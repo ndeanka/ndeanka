@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,50:1e1e2e,100:94e2d5&height=160&section=header&text=William%20Mlula&fontSize=40&fontColor=cdd6f4&animation=twinkling&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Remote%20%C2%B7%20UTC%2B3&descAlignY=56&descSize=16&descColor=a6adc8" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,50:1e1e2e,100:94e2d5&height=160&section=header&text=William%20Mlula&fontSize=40&fontColor=cdd6f4&animation=twinkling&fontAlignY=36&desc=Full-stack%20%C2%B7%20APIs%20%26%20product%20systems%20%C2%B7%20Remote%20%C2%B7%20UTC%2B3&descAlignY=56&descSize=15&descColor=a6adc8" alt="Header banner" />
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=94e2d5&center=true&vCenter=true&width=680&lines=Ships+products+end-to-end;Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Node+%E2%80%A2+Java;Will+debug+for+snacks;Not+shipping+on+Friday+%28probably%29" alt="Animated headline" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=94e2d5&center=true&vCenter=true&width=720&lines=Full-stack+%C2%B7+whiteboard+%E2%86%92+production;Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+Laravel;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Own+the+vertical+%C2%B7+UI+%E2%86%94+API+%E2%86%94+data;Learning+Go;Not+shipping+on+Friday+%28probably%29" alt="Animated headline" /></a>
 
   <p>
-    <strong>Production web &amp; mobile · typed APIs · UX that survives contact with users</strong>
+    <strong>Angular · Spring Boot · Laravel · Postgres/MySQL · Redis · RabbitMQ · Docker</strong>
   </p>
 
   <p>
@@ -27,14 +27,16 @@
 
 ## About
 
-I take ideas from **whiteboard → production**: scalable **Angular** / **React** front ends, dependable **Laravel**, **Node.js**, and **Java** backends, and data layers that behave (**MySQL**, **PostgreSQL**, **MongoDB**).
+I ship products **end-to-end**: **Angular** UIs, **Spring Boot** and **Laravel** APIs, data that holds up (**PostgreSQL** / **MySQL**), and the plumbing that makes them production-ready (**Redis**, **RabbitMQ**, **Docker**).
 
-I care about **strict typing**, **clear API contracts**, and interfaces that stay usable as the product grows—so you ship faster later, not just now.
+I care about **clear API contracts**, **migrations you can roll forward from**, and interfaces that stay usable as the product grows—so you ship faster later, not just now. Happy to walk through architecture decisions and tradeoffs on a call.
 
 ```typescript
 const ndeanka = {
-  code: ["TypeScript", "PHP", "Java"],
-  tools: ["Docker", "Git", "CI/CD"],
+  primary: ["TypeScript", "Angular", "Spring Boot", "Laravel"],
+  data: ["PostgreSQL", "MySQL", "Redis", "RabbitMQ"],
+  tools: ["Git", "Docker", "CI/CD"],
+  learning: ["Go"],
   architecture: ["REST", "services", "component-driven UI"],
   superpower: "Tuesday deadlines → shippable increments",
   nemesis: "bugs that only exist in prod",
@@ -44,61 +46,58 @@ const ndeanka = {
 ```yaml
 # ~/.ndeanka/status.yml
 building: "pharmacy ecosystem (web + mobile)"
-exploring: "RxJS, state that doesn't fight back"
+exploring: "Go — small services, concurrency, tooling"
 collabs: "real users, clear scope, adult timelines"
 still_learning: 'saying "no" to Friday deploys'
 ```
 
-<details>
-<summary><b>More — FAQ, jokes, quotes</b></summary>
+---
 
-| | |
-| :--- | :--- |
-| **Favorite HTTP status?** | `418` — teapot energy. |
-| **Tabs or spaces?** | Whatever the linter picks. |
-| **Why so many stacks?** | Features over framework loyalty. |
-| **Biggest fear?** | Green CI that lied. |
+## How I work
 
-<br/>
+- **API-first** — contracts before UI polish; typed boundaries between services and clients
+- **Boring in prod** — Redis/RabbitMQ when the domain needs cache or async, not for fashion
+- **Small PRs, green CI** — reviewable increments; migrations thought through before merge
+- **Own the vertical** — UI ↔ API ↔ data ↔ queues; I don’t throw work over the wall
 
-<details>
-<summary><b>Random dev joke</b> (refreshes when GitHub re-renders)</summary>
-<p align="center">
-  <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api?theme=catppuccin_mocha&hideBorder" alt="Random programming joke" /></a>
-</p>
-</details>
+---
 
-<details>
-<summary><b>Random programming quote</b></summary>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Programming quote" />
-</p>
-</details>
+## Featured work
 
-</details>
+Selected product work (private / client — happy to walk through on a call):
+
+| Project | Stack | What I owned |
+| :--- | :--- | :--- |
+| **Pharmacy ecosystem — APIs** | Spring Boot · PostgreSQL · Redis · Docker | Auth, inventory/domain APIs, cache where it pays off, containerized local + deploy path |
+| **Pharmacy ecosystem — admin / web** | Angular · TypeScript | Role-aware UI against those APIs; screens that survive real pharmacy workflows |
+| **Pharmacy ecosystem — services** | Laravel · MySQL · RabbitMQ | Jobs/async paths, reliable side effects, clear service boundaries |
+
+Public pins will grow as I open-source sanitized slices (including a small **Go** learning service). Until then, ask for a walkthrough.
 
 ---
 
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,laravel,nodejs,java,mysql,postgres,mongodb,docker,git,github&perline=12&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,spring,java,laravel,postgres,mysql,redis,rabbitmq,docker,git,github,go&perline=13&theme=dark" alt="Skills" />
 </div>
 
 | Layer | Tools |
 | :--- | :--- |
-| **UI** | Angular, React, TypeScript, SCSS, Tailwind CSS |
-| **API &amp; services** | Laravel, Node (Express / Nest), Java |
-| **Data** | MySQL, PostgreSQL, MongoDB |
-| **Delivery** | Docker, GitHub Actions |
+| **UI** | Angular, TypeScript |
+| **API &amp; services** | Java (Spring Boot), Laravel |
+| **Data** | PostgreSQL, MySQL |
+| **Async &amp; cache** | RabbitMQ, Redis |
+| **Delivery** | Git, Docker, GitHub Actions |
+| **Learning** | Go |
 
 ---
 
 ## Focus now
 
 - **Shipping:** Pharmacy management ecosystem — web + mobile.
-- **Leveling up:** Advanced RxJS, leaner state management.
-- **Open to:** Full-time, focused contracts, technical consulting.
+- **Leveling up:** Go for small services, concurrency, and tooling.
+- **Open to:** Full-time or focused contracts — full-stack with a strong API/backend lean · remote.
 
 ---
 
@@ -115,29 +114,24 @@ still_learning: 'saying "no" to Friday deploys'
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndeanka&hide_border=true&custom_title=Contribution%20activity&bg_color=1e1e2e&color=a6adc8&line=94e2d5&point=89b4fa&area_color=313244&area=true" alt="Contribution activity graph" />
 
-<div align="center">
-  <a href="https://github.com/ndeanka?tab=followers"><img src="https://img.shields.io/github/followers/ndeanka?style=for-the-badge&logo=github&label=Followers&color=94e2d5&labelColor=1e1e2e" alt="Followers" /></a>
-  <a href="https://github.com/ndeanka?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fndeanka&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=94e2d5&labelColor=1e1e2e" alt="Repositories" /></a>
-</div>
+<details>
+<summary><b>More — FAQ &amp; asides</b></summary>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ndeanka&theme=catppuccin&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</div>
+| | |
+| :--- | :--- |
+| **Favorite HTTP status?** | `418` — teapot energy. |
+| **Tabs or spaces?** | Whatever Git and the linter agree on. |
+| **Why this stack?** | Own the vertical: UI ↔ API ↔ data ↔ async. |
+| **Biggest fear?** | Green CI that lied. |
 
----
-
-## Repos to browse
-
-- [**Pinned**](https://github.com/ndeanka?tab=repositories) — best examples of how I structure work
-- [**All public**](https://github.com/ndeanka?tab=repositories&type=public) — full history
-- [**Recently updated**](https://github.com/ndeanka?tab=repositories&sort=updated) — what’s active now
+</details>
 
 ---
 
 <div align="center">
   <sub><i>“Works on my machine” — professionally avoided.</i></sub>
   <br /><br />
-  <b>Remote · worldwide</b>
+  <b>Remote · worldwide · available for the right team</b>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,50:313244,100:1e1e2e&height=100&section=footer" alt="Footer banner" />
