@@ -64,15 +64,14 @@ still_learning: 'saying "no" to Friday deploys'
 
 ## Featured work
 
-Selected product work (private / client — happy to walk through on a call):
-
 | Project | Stack | What I owned |
 | :--- | :--- | :--- |
-| **Pharmacy ecosystem — APIs** | Spring Boot · PostgreSQL · Redis · Docker | Auth, inventory/domain APIs, cache where it pays off, containerized local + deploy path |
-| **Pharmacy ecosystem — admin / web** | Angular · TypeScript | Role-aware UI against those APIs; screens that survive real pharmacy workflows |
-| **Pharmacy ecosystem — services** | Laravel · MySQL · RabbitMQ | Jobs/async paths, reliable side effects, clear service boundaries |
+| [**inventory-api**](https://github.com/ndeanka/inventory-api) | Spring Boot · PostgreSQL · Redis · Docker | Public showcase — Flyway schema, Redis-cached reads, typed REST, Compose + CI |
+| **Pharmacy ecosystem — APIs** | Spring Boot · PostgreSQL · Redis · Docker | Auth, inventory/domain APIs, cache where it pays off (private / client) |
+| **Pharmacy ecosystem — admin / web** | Angular · TypeScript | Role-aware UI against those APIs (private / client) |
+| **Pharmacy ecosystem — services** | Laravel · MySQL · RabbitMQ | Jobs/async paths, reliable side effects (private / client) |
 
-Public pins will grow as I open-source sanitized slices (including a small **Go** learning service). Until then, ask for a walkthrough.
+Happy to walk through private pharmacy architecture on a call. More public pins (Angular / Laravel / Go) coming next.
 
 ---
 
