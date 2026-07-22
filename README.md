@@ -72,6 +72,21 @@ still_learning: 'saying "no" to Friday deploys'
 | [**sku-service**](https://github.com/ndeanka/sku-service) | Go | Learning service — SKU lookup via stdlib HTTP, proxies to inventory-api |
 | **Pharmacy ecosystem** | Spring · Angular · Laravel | Private/client — full vertical (APIs, admin, jobs); walkthrough on request |
 
+### Try the public stack (local)
+
+```text
+inventory-api  →  inventory-admin (UI)
+       ↓
+  sku-service (Go lookup)
+inventory-jobs → RabbitMQ (stock.adjusted)
+```
+
+1. **API:** `cd inventory-api && docker compose up --build` → http://localhost:8080  
+2. **UI:** `cd inventory-admin && npm start` → http://localhost:4200  
+3. **Go:** `INVENTORY_API_BASE=http://localhost:8080 go run ./cmd/server` in `sku-service` → http://localhost:8081  
+4. **Jobs:** `cd inventory-jobs && docker compose up -d && php -n artisan inventory:consume-stock-adjusted`  
+   Publish: `php -n artisan inventory:publish-stock-adjusted SKU-100 -1 --reason=demo`
+
 Public pins above are portfolio samples. Domain depth lives in private pharmacy work.
 
 ---
