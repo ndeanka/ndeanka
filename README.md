@@ -66,7 +66,7 @@ still_learning: 'saying "no" to Friday deploys'
 
 | Project | Stack | What I owned |
 | :--- | :--- | :--- |
-| [**inventory-api**](https://github.com/ndeanka/inventory-api) | Spring Boot · PostgreSQL · Redis · Docker | Public API showcase — Flyway, Redis-cached reads, typed REST, Compose + CI |
+| [**inventory-api**](https://github.com/ndeanka/inventory-api) | Spring Boot · PostgreSQL · Redis · Docker | Public API showcase — Flyway, Redis cache, HTTP Basic, Compose + CI |
 | [**inventory-admin**](https://github.com/ndeanka/inventory-admin) | Angular · TypeScript | Public admin UI — signals, OnPush, typed HttpClient against inventory-api |
 | [**inventory-jobs**](https://github.com/ndeanka/inventory-jobs) | Laravel · RabbitMQ | Public async showcase — publish/consume `stock.adjusted` with ack + typed payload |
 | [**sku-service**](https://github.com/ndeanka/sku-service) | Go | Learning service — SKU lookup via stdlib HTTP, proxies to inventory-api |
