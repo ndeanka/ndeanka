@@ -66,12 +66,13 @@ still_learning: 'saying "no" to Friday deploys'
 
 | Project | Stack | What I owned |
 | :--- | :--- | :--- |
-| [**inventory-api**](https://github.com/ndeanka/inventory-api) | Spring Boot · PostgreSQL · Redis · Docker | Public showcase — Flyway schema, Redis-cached reads, typed REST, Compose + CI |
-| **Pharmacy ecosystem — APIs** | Spring Boot · PostgreSQL · Redis · Docker | Auth, inventory/domain APIs, cache where it pays off (private / client) |
-| **Pharmacy ecosystem — admin / web** | Angular · TypeScript | Role-aware UI against those APIs (private / client) |
-| **Pharmacy ecosystem — services** | Laravel · MySQL · RabbitMQ | Jobs/async paths, reliable side effects (private / client) |
+| [**inventory-api**](https://github.com/ndeanka/inventory-api) | Spring Boot · PostgreSQL · Redis · Docker | Public API showcase — Flyway, Redis-cached reads, typed REST, Compose + CI |
+| [**inventory-admin**](https://github.com/ndeanka/inventory-admin) | Angular · TypeScript | Public admin UI — signals, OnPush, typed HttpClient against inventory-api |
+| [**inventory-jobs**](https://github.com/ndeanka/inventory-jobs) | Laravel · RabbitMQ | Public async showcase — publish/consume `stock.adjusted` with ack + typed payload |
+| [**sku-service**](https://github.com/ndeanka/sku-service) | Go | Learning service — SKU lookup via stdlib HTTP, proxies to inventory-api |
+| **Pharmacy ecosystem** | Spring · Angular · Laravel | Private/client — full vertical (APIs, admin, jobs); walkthrough on request |
 
-Happy to walk through private pharmacy architecture on a call. More public pins (Angular / Laravel / Go) coming next.
+Public pins above are portfolio samples. Domain depth lives in private pharmacy work.
 
 ---
 
