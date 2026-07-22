@@ -108,12 +108,6 @@ Public pins will grow as I open-source sanitized slices (including a small **Go*
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ndeanka&amp;layout=compact&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;exclude_repo=ndeanka&amp;langs_count=8" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ndeanka&amp;theme=catppuccin-mocha&amp;hide_border=true" alt="Contribution streak" />
-</div>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndeanka&amp;hide_border=true&amp;custom_title=Contribution%20activity&amp;bg_color=1e1e2e&amp;color=a6adc8&amp;line=94e2d5&amp;point=89b4fa&amp;area_color=313244&amp;area=true" alt="Contribution activity graph" />
-
 <details>
 <summary><b>More — FAQ &amp; asides</b></summary>
 
