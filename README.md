@@ -104,8 +104,8 @@ Public pins will grow as I open-source sanitized slices (including a small **Go*
 ## GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ndeanka&amp;show_icons=true&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;rank_icon=percentile&amp;include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeanka&amp;layout=compact&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;exclude_repo=ndeanka&amp;langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=ndeanka&amp;show_icons=true&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;rank_icon=percentile&amp;include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ndeanka&amp;layout=compact&amp;theme=catppuccin_mocha&amp;hide_border=true&amp;exclude_repo=ndeanka&amp;langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
